@@ -118,6 +118,17 @@ header {
   left: -9px;
 }
 
+.price-container p {
+    position: absolute;
+    color: white;
+    top: 25px;
+    left: 10px;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.8px;
+    transform: rotate(-45.00deg);
+}
+
 .yellow-card {
   position: relative;
   width: 350px;
@@ -139,6 +150,7 @@ header {
   top: 0;
   left: 50px;
 }
+
 
 .title-two {
   position: absolute;
